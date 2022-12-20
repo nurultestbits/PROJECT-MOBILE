@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCSearch1-search word</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5777189f-08fc-49e1-9607-96a2bf42e8f3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8018a9da-65d4-47a2-839e-6dcf47d79e1d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Bahan'</defaultValue>
+      <description></description>
+      <id>8018a9da-65d4-47a2-839e-6dcf47d79e1d</id>
+      <masked>false</masked>
+      <name>words</name>
+   </variable>
+</TestCaseEntity>
